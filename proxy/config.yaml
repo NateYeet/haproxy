@@ -2,7 +2,7 @@ name: PortainerProxy
 version: 1.0.2
 slug: sproxy
 description: HA ingress
-url: https://github.com/
+url: https://github.com/NateYeet/haproxy
 image: ghcr.io/maxwinterstein/homeassistant-addon-octoprint-proxy-{arch}
 ingress: true
 ingress_port: 80
